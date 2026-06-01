@@ -16,6 +16,7 @@ My path to a PhD in Quantum Computing
 - Ch 12: Cramer's Rule, Explained Geometrically
 - Ch 13: Change of Basis
 - Ch 14: Eigenvectors and Eigenvalues
+- Ch 15: A Quick Trick for Computing Eigenvalues
 
 ## Code
 - `day2_bell_state.py` — Qiskit Bell state circuit + simulation
