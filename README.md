@@ -15,6 +15,7 @@ My path to a PhD in Quantum Computing
 - Ch 11: Cross Products via Transformations
 - Ch 12: Cramer's Rule, Explained Geometrically
 - Ch 13: Change of Basis
+- Ch 14: Eigenvectors and Eigenvalues
 
 ## Code
 - `day2_bell_state.py` — Qiskit Bell state circuit + simulation
